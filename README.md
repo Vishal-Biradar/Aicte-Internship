@@ -1,2 +1,2 @@
 # Aicte-Internship
-Ai resume screening & candidate ranking system 
+AI Resume Screening and Candidate Ranking System 
